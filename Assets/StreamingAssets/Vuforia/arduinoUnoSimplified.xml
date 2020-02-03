@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="arduinoUnoSimplified" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="arduinoUnoSimplifieds_assembly" assemblyId="2b3da5b1aab242af801ba8c4705005fb">
+<Part name="arduinoUnoSimplified" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.000699687 0.000991373 0.115013" rotation="AD: 0.8944271909999159 -0.8944271909999154 0.8944271909999159 240" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
