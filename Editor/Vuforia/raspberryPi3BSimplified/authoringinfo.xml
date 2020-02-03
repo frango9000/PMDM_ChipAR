@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="raspberryPi3BSimplified" targetId="14715b1a0f4342ec857c9071c698618c" version="11.1" toolVersion="8.6.7" bbox="-0.044500 -0.030500 -0.002000 0.042500 0.028000 0.016300" previewImage="14715b1a0f4342ec857c9071c698618c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="raspberryPi3BSimplifieds_assembly" assemblyId="eb55bcc7cf144dce831317efcb8f7bba">
+<Part name="raspberryPi3BSimplified" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00109245 -0.00275197 0.1384" rotation="AD: 1 0.9999999999999999 -6.123233995736766e-17 180" image="raspberryPi3BSimplified_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
