@@ -60,6 +60,7 @@
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="PMDM_ChipAR.sln" t="IncludeFlat" />
+Readme init      <e p="README.md" t="Include" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
