@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="arduinoUnoSimplified" targetId="22eb805b7aac49e4af6d12fbf713348e" version="11.1" toolVersion="8.6.7" bbox="-0.035570 0.000000 -0.026700 0.039830 0.012500 0.026700" previewImage="22eb805b7aac49e4af6d12fbf713348e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="arduinoUnoSimplifieds_assembly" assemblyId="2b3da5b1aab242af801ba8c4705005fb">
+<Part name="arduinoUnoSimplified" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.000699687 0.000991373 0.115013" rotation="AD: 0.8944271909999159 -0.8944271909999154 0.8944271909999159 240" image="arduinoUnoSimplified_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
