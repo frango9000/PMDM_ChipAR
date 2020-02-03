@@ -31,8 +31,8 @@ public class AppController : MonoBehaviour
         {
             Destroy(this);
         }
-    }
 
+    }
 
     public void ChipFound(ChipTrackableEventHandler tracked)
     {
