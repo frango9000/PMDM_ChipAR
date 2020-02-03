@@ -1,5 +1,8 @@
 # ChipAR
 
+<img width="50%" heigth="50%" src="https://user-images.githubusercontent.com/43641397/73679966-bb189300-46bb-11ea-84c3-09c4b119b769.png"></img>
+
+
 App de realidad aumentada para agilizar el aprendizaje
 sobre microchips utilizados en robótica. Facilitando el
 reconocimiento de los mismos incluyendo varios filtros de visión
